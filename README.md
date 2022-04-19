@@ -8,7 +8,7 @@
 * mockito - Mock library for Dart inspired by Mockito
 * ValueNotifier - reactive programming
 
-<img src="screen1.gif" width="50%">
+<img src="screen1.gif" width="40%">
 
 ### Reference
 * https://www.youtube.com/watch?v=HOFtQTyqh3Q&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&index=54
